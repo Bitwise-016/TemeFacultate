@@ -1,6 +1,6 @@
 # TemeFacultate
 Aici imi incarc eu temele la facultate
-Tema 1:
+#Tema 1:
 Scopul programului este de a demonstra utilizarea claselor în limbajul C++ pentru a gestiona și afișa informații despre adrese, persoane și companii. Programul creează trei clase interconectate:
 
 Clasa Adresa: Aceasta reprezintă o adresă fizică și este folosită pentru a stoca informații despre locații. Scopul său este să ofere o structură de date pentru a gestiona detaliile unei adrese, cum ar fi strada, numărul de bloc și orașul.
